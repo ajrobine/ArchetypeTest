@@ -1,0 +1,8 @@
+name: ajrobine
+main: edu.unca.ajrobine.ajrobine.ajrobine
+version: 0.1
+
+commands:
+   command:
+      description: A Command
+      usage: /<command> 
